@@ -1,0 +1,4 @@
+streamlit>=1.37
+transformers>=4.44
+pandas>=2.2
+matplotlib>=3.8
