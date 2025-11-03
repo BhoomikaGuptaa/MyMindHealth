@@ -1,4 +1,4 @@
-# MindMend — Emotion Insights (Non-clinical)
+# MyMindHealth
 
 Quick Streamlit app that classifies text into emotions using a pretrained DistilRoBERTa model.
 **Not medical advice.**
